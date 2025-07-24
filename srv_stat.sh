@@ -37,7 +37,7 @@ diskinfo () {
 # Print Top 5 Processes by CPU Usage
 ps_by_cpu () {
   ps_list=$(ps -eo pid,comm,%cpu --sort=-%cpu | head -n 6)
-  printf "TOP 5 PROCESSES BY CPU\:\n"
+  printf "TOP 5 PROCESSES BY CPU:\n"
   echo "$ps_list"
 }
 
