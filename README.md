@@ -1,5 +1,5 @@
 # ServerPerformaceStats
-This repository is for a bash script that I created as a solution for the "Server Performance Stats" project on roadmap[.]sh.
+This repository is for a bash script that I created as a solution for the "Server Performance Stats" this [project](https://roadmap.sh/projects/server-stats).
 # How to Run
 To execute this project, follow these steps:
 1. Give the `srv_stat.sh` executable permissions:
