@@ -11,3 +11,6 @@ $ chmod 744 srv_stat.sh
 $ ./srv_stat.sh
 ```
 # Output Format
+![[https://github.com/EADDRINUSE-98/ServerPerformaceStats/blob/main/output_ss.png]]
+# Considerations
+Please keep in mind that is script is not the most optimal solution. It may or may not work for you. So, make sure to temper with this script and make your own solution from it.
